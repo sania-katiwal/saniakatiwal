@@ -1,3 +1,3 @@
 # saniakatiwal
 this is my first repository
-author- sania katiwal
+author- sania katiwal(directory)
